@@ -9,6 +9,4 @@
 
 I'll upload the programs I make here so feel free to check them out.
 If you have any suggestions too feel free to tell me.
-
-*     Also I have a website     *
-     https://www.zekeby.org/
+Also I have a website: https://www.zekeby.org/
