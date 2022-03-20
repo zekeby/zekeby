@@ -8,5 +8,4 @@
 - ⚡ Fun fact: I have no idea what I'm doing.
 
 I'll upload the programs I make here so feel free to check them out.
-If you have any suggestions too feel free to tell me.
-Also I have a website: https://www.zekeby.org/
+If you have any suggestions too feel free to tell me. Also I have a website: https://www.zekeby.org/
